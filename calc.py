@@ -8,3 +8,6 @@ def density(mass, volume):
     """Calculate density"""
     return mass / volume
     
+def friction():
+    """Determines rock friction"""
+    return 0.6
